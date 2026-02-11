@@ -36,8 +36,3 @@ npx expo start
 
 ## Screenshots
 
-### Wallet Balance and Token Holdings
-![SolScan Wallet Overview](./assets/solscan-wallet-overview.png)
-
-### Token Details and Holdings Display
-![SolScan Token Holdings](./assets/solscan-token-holdings.png)
