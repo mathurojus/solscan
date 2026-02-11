@@ -36,5 +36,5 @@ npx expo start
 
 ## Screenshots
 
-![SolScan Screenshot 1](./assets/solscan-1.jpeg)
-![SolScan Screenshot 2](./assets/solscan-2.jpeg)
+![SolScan Screenshot 1](./solscan-1.jpeg)
+![SolScan Screenshot 2](./solscan-2.jpeg)
